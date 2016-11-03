@@ -27,11 +27,11 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="20dip"
-        android:password="true"
+        android:inputType="textPassword"
         android:singleLine="true"/>
     <!-- Login button -->
     <Button android:id="@+id/btnLogin"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Sign in"/>
+        android:text="Login"/>
 </LinearLayout>
